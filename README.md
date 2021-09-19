@@ -1,2 +1,2 @@
 # EE629_IoT
-This is the github page for Internet of Things course.
+This is the GitHub repository for Internet of Things course.

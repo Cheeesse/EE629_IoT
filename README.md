@@ -4,6 +4,9 @@ Amatracker is an Amazon price tracking tool written in Python.
 ## Functionality
 Users are able to set an expected price for a specific Amazon product, the program will keep tracking the product price. Once the price lower than user's expected price, program will alert user by cloud service.
 
+### Demonstration
+<img src="PicAsset/push.gif" width="296" height="640"/>
+
 ## Requirement
 [Requests](https://docs.python-requests.org/en/latest/) will be used to send HTTP/1.1 requests to Amazon server. <br>
 You can install it by:

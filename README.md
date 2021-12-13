@@ -6,7 +6,7 @@ Users are able to set an expected price for a specific Amazon product, the progr
 
 ### Demonstration
 <img src="PicAsset/push.gif" width="296" height="640"/><br>
-<img src="PicAsset/email.jpg" width="600"/>
+<img src="PicAsset/email.JPG" width="600"/>
 
 ## Requirement
 [Requests](https://docs.python-requests.org/en/latest/) will be used to send HTTP/1.1 requests to Amazon server. <br>

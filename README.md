@@ -28,7 +28,7 @@ $ python -m pip install secure-smtplib
 ## Set Your Data
 <span style="font-family:Consolas;color:yellow">URL</span> is the link of your Amazon product page.<br>
 You can put your expected price in <span style="font-family:Consolas;color:yellow">PRICE_VALUE</span>.<br>
-<span style="font-family:Consolas;color:yellow">EMAIL_ADDRESS</span> is the Email address for receiving Email alert. You also need to put the password of Email account in server.login().<br>
+<span style="font-family:Consolas;color:yellow">EMAIL_ADDRESS</span> is the Email address for receiving Email alert. You also need to put the password of Email account in server.login().<br>Tips: If your Google account enabled 2FA, then you need to create an App Password for Gmail. You can find more information [HERE](https://support.google.com/accounts/answer/185833?hl=en).<br>
 <span style="font-family:Consolas;color:yellow">WEBHOOK</span> is your IFTTT webhook URL for receiving push notification on smartphone. The way to get your IFTTT webhook will be introduced below.
 
 ## Create IFTTT Webhook
